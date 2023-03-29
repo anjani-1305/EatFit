@@ -6,6 +6,4 @@
 # EatFit - Responsive Landing Page
 
 <p>This Project Is Made By:</p>
-<strong>Anjani Kumar</strong>Dated:-03/2023
-
-## Demo:
+<strong>Anjani Kumar</strong>Dated:-03/2023.
